@@ -1,0 +1,7 @@
+- mypwd.c --> print current path to console
+- myecho --> print input to console
+- mymv.c --> move file example: ./mymv sourceFile destinationFile
+- mycp.c --> copy files example ./mycp sourceFile destinationFile
+Command used:
+gcc SourceCode.c -o ElFFile
+
